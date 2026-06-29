@@ -1,5 +1,5 @@
 // Sample Products (Expanded to 20)
-        const products = [
+        const product = [
             { id: 1, name: 'Premium T-Shirt', price: 19.99, img: 'premiumshirt.avif', rating: '★★★★★' },
             { id: 2, name: ' Headphones', price: 59.99, img: 'wireless headphnes.avif', rating: '★★★★☆' },
             { id: 3, name: 'Smart Watch', price: 99.99, img: 'smate wath.avif', rating: '★★★★★' },
